@@ -24,7 +24,7 @@ adb shell settings put system peak_refresh_rate 144.0 && adb shell settings put
 
 * This sample project was created in UE 4.21.2.
 
-* The target frame rate can be set by using the `Execute Console Command` blueprint node. The `tMaxFPS` property sets the target frame rate.
+* The target frame rate can be set by using the `Execute Console Command` blueprint node. The `t.MaxFPS` property sets the target frame rate.
 
 ![image_3](images/image_3.png)
 
